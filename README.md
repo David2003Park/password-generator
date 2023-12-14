@@ -10,4 +10,4 @@
 * JavaScript
   
 ## Link
-https://C:/Users/dasom/MONU-VIRT-FSF-PT-11-2023-U-LOLC/Week03-JavaScript/02-Challenge/Develop/index.html
+file:///C:/Users/dasom/MONU-VIRT-FSF-PT-11-2023-U-LOLC/Week03-JavaScript/02-Challenge/Develop/index.html
